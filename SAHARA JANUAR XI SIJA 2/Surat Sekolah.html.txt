@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Surat Keterangan Kelulusan</title>
+    <style>
+        body {
+            font-family: Cambria, sans-serif;
+            margin: 40px;
+        }
+        .header {
+            text-align: center;
+        }
+        .content {
+            margin-top: 20px;
+        }
+        .content table {
+            width: 95%;
+            border-collapse: collapse;
+            margin-top: 20px;
+            margin-left: 75px;
+        }
+        .content table, .content th, .content td {
+            border: 2px solid black;
+        }
+        .content th, .content td {
+            padding: 0px;
+        }
+        .signature {
+            margin-top: 30px;
+            text-align: right;
+        }
+        .photo {
+            width: 90px;
+            height: 133px;
+            border: 2px solid #000;
+            margin-top: 20px;
+            text-align: center;
+            line-height: 133px;
+            margin-left: 590px;
+        }
+        hr {
+            border: 1px solid #000;
+        }
+        .details {
+            display: flex;
+        }
+        .details div {
+            margin-right: 50px;
+        }
+    </style>
+</head>
+<body>
+    <tr>
+        <td><img src="smkcibitung1.png" width="130" height="130" align="right"></td>
+        <td><img src="jawabarat2.png" width="130" height="130" align="left"></td>
+    
+    <div class="header">
+        <font size="4"><b>PEMERINTAHAN DAERAH PROVINSI JAWA BARAT<br>
+        DINAS PENDIDIKAN<br>
+        CABANG DINAS PENDIDIKAN WILAYAH III<br>
+        SMKS CIBITUNG 1</font><br>
+        <font size="2">Jl. Keramat No.130 Selang Bulak, Wanajaya, Kec. Cibitung Kab. Bekasi Kode Pos 17520<br>
+        Telp/WA : 085740363498 Email: smkcibitung1@gmail.com Website: www.smkcibitung1.sch.id</font><br><br>
+    </tr>
+        <hr>
+        <font size="4"><u>SURAT KETERANGAN KELULUSAN</u></font></b><br>
+        <font size="4">Nomer: 006/TU.01.02/SMK/Cibitung1</u></font>
+    </div>
+
+    <div class="content">
+        <p>Kepala SMKS Cibitung 1 selaku Ketua Penyelenggara Ujian Sekolah Tahun Pelajaran 2023/2024 berdasarkan:</p>
+        <ol type="1">
+            <li>Ketuntasan dari seluruh program pembelajaran pada Kurikulum 2013</li>
+            <li>Kriteria kelulusan dari satuan pendidikan sesuai dengan peraturan perundang-undangan.</li>
+            <li>Rapat Pleno Dewan Pendidik tentang kelulusan pada tanggal 03 Mei 2024.</li>
+        </ol>
+        <p>Menerangkan bahwa:</p>
+        <div class="details">
+            <div>
+                <dd><p>Nama</p>
+                <p>Tempat Tanggal Lahir</p>
+                <p>Nama Orang Tua</p>
+                <p>Nomor Induk</p>
+                <p>Nomor Induk Siswa Nasional</p>
+                <p>Kompetensi Keahlian</p>
+                <p>Dinyatakan</p>
+            </div>
+            <div>
+                <p>: <b>Adellya Aida Yahya</b></p>
+                <p>: Bandung, 17 Oktober 2006</p>
+                <p>: Iis Sugianto</p>
+                <p>: 212210521</p>
+                <p>: 0066392222</p>
+                <p>: Perbankan Syari'ah</p>
+                <p>: <b>LULUS</b></p></dd>
+            </div>
+    </div>
+
+    <p>Dengan nilai sebagai berikut:</p>
+    <div class="table-container">
+        <table>
+            <thead>
+                <tr>
+                    <th>No</th>
+                    <th>Mata Pelajaran</th>
+                    <th>Nilai Ujian<br> 
+                        Sekolah</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td colspan="3"><b>A. Muatan Nasional</b></td>
+                </tr>
+                <tr>
+                    <td align="center">1</td>
+                    <td>Pendidikan Agama dan Budi Pekerti</td>
+                    <td align="center">87.42</td>
+                </tr>
+                <tr>
+                    <td align="center">2</td>
+                    <td>Pendidikan Pancasila dan Kewarganegaraan</td>
+                    <td align="center">87.97</td>
+                </tr>
+                <tr>
+                    <td align="center">3</td>
+                    <td>Bahasa Indonesia</td>
+                    <td align="center">83.52</td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+    <p>Demikian Surat Keterangan ini dibuat untuk dipergunakan sebagaimana mestinya.</p>
+
+    <div class="signature">
+        <p>Bekasi, 03 Mei 2024<br>
+        Kepala Sekolah
+        <div class="photo">Photo 3 x 4</div>
+        <b><u>(Faisal Azmi, S.Pd)</u></b><br>
+        NIP: -</p>
+    </div>
+
+</body>
+</html>
